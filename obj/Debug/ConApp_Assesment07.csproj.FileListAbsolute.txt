@@ -1,0 +1,8 @@
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\bin\Debug\ConApp_Assesment07.exe.config
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\bin\Debug\ConApp_Assesment07.exe
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\bin\Debug\ConApp_Assesment07.pdb
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\obj\Debug\ConApp_Assesment07.csproj.AssemblyReference.cache
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\obj\Debug\ConApp_Assesment07.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\obj\Debug\ConApp_Assesment07.csproj.CoreCompileInputs.cache
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\obj\Debug\ConApp_Assesment07.exe
+D:\DotNet\PHASE_2\Day-07\ConApp_Assesment07\obj\Debug\ConApp_Assesment07.pdb
